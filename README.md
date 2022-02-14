@@ -8,4 +8,4 @@ On a personal level, Paul is an aviation enthusiast and a Cessna 172 student pil
 * Database: MySQL
 * Analytical Software & Tools: Alteryx, R, Excel (VBA, Pivot Tables)
 
-Paul is actively seeking Summer 2022 internship opportunities. Please feel free to reach out via email: chunpo.shih.2022@anderson.ucla.edu
+Paul is actively seeking Fall 2022 internship opportunities. Please feel free to reach out via email: chunpo.shih.2022@anderson.ucla.edu
