@@ -4,8 +4,8 @@ Paul graduated Cum Laude from UCLA, became a CPA while at PwC & Carrefour, and e
 
 On a personal level, Paul is an aviation enthusiast and a Cessna 172 student pilot. He is always excited to talk about his next cross-country flight for a $100 Burger. 
 
-* Programming: Python (NumPy, Pandas, scikit-learn, matplotlib)
-* Database: MySQL
-* Analytical Software & Tools: Alteryx, R, Excel (VBA, Pivot Tables)
+* Languages: Python (NumPy, Pandas, Matplotlib, Scikit-Learn), R, SQL, Alteryx, Stata
+* Software: MySQL, Tableau, Jupyter, Fivetran, dpt, GitHub, AWS, Snowflake, Advanced Excel
+* Analytics: A/B Testing, Causal Inference, ELT/ ETL, Data Visualization, Financial Statement Analysis
 
 Paul is actively seeking Fall 2022 internship opportunities. Please feel free to reach out via email: chunpo.shih.2022@anderson.ucla.edu
