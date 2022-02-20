@@ -8,4 +8,4 @@ On a personal level, Paul is an aviation enthusiast and a Cessna 172 student pil
 * Software: MySQL, Tableau, Jupyter, Fivetran, dpt, GitHub, AWS, Snowflake, Advanced Excel
 * Analytics: A/B Testing, Causal Inference, ELT/ ETL, Data Visualization, Financial Statement Analysis
 
-Paul is actively seeking Fall 2022 internship opportunities. Please feel free to reach out via email: chunpo.shih.2022@anderson.ucla.edu
+Paul is actively seeking 2022 internship opportunities. Please feel free to reach out via email: chunpo.shih.2022@anderson.ucla.edu
